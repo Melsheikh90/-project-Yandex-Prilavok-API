@@ -1,4 +1,4 @@
-# -project-Yandex-Prilavok-API
+# Yandex Prilavok API Testing
 ✔ Backend  ✔ REST API testing  ✔ Order / product service logic
 Backend API testing project.
 
