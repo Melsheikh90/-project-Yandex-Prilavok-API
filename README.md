@@ -1,5 +1,5 @@
 # Yandex Prilavok API Testing
-✔ Backend  ✔ REST API testing  ✔ Order / product service logic
+
 Backend API testing project.
 
 Tested new functionality implemented in Yandex Prilavok service API.
@@ -16,3 +16,4 @@ Functional testing, API testing, regression testing.
 
 ## Tools
 Postman, HTTP/HTTPS, JSON, API testing.
+
